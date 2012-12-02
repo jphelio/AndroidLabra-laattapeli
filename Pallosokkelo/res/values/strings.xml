@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Ball game</string>
+    <string name="otsikko">Main menu</string>
+    <string name="subject">New game</string>
+    <string name="message">Highscore</string>
+    <string name="send">Exit</string>
+    <string name="Back">Back</string>
+    <string name="first"></string>
+    <string name="menu_settings">menu_settings</string>
+    <string name="title_activity_main">Ball game</string>
+    <string name="title_activity_highscore">Highscore</string>
+
+</resources>
