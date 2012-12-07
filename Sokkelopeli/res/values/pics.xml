@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item id="@+id/nimeton" name="nimeton" type="drawable" src="C:\Users\Vesihiisi\workspace\helloWorld\nimeton.png"></item>
+    <item id="@+id/ruutu" name="ruutu" type="drawable" src="C:\\Users\\Vesihiisi\\workspace\\helloWorld\\ruutu.png"></item>
+</resources> 
